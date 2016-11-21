@@ -1,2 +1,2 @@
-# Reactive-Koa
+# Koala
 Reactive API Example Using Koa
